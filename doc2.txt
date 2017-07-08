@@ -2,5 +2,7 @@ hello
 new entry
 joint entries from master and doc2edit
 and that's it
+more entries in newtask
+
 
 
