@@ -1,3 +1,4 @@
 hello
 new entry
+this is new entry in doc2edit
 
