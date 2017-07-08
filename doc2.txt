@@ -1,4 +1,6 @@
 hello
 new entry
-more entries im master
+joint entries from master and doc2edit
+and that's it
+
 
