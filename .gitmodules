@@ -1,0 +1,3 @@
+[submodule "stencila"]
+	path = stencila
+	url = https://github.com/stencila/test.git
