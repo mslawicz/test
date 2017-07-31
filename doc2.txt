@@ -4,6 +4,7 @@ joint entries from master and doc2edit
 and that's it
 more entries in newtask
 more text entered
+new entry in master branch
 
 
 
