@@ -3,3 +3,4 @@ problem 1 completed
 more editing in master
 this is modified in newtask
 next edit
+adding some text in august session
