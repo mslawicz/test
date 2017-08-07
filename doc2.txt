@@ -5,6 +5,7 @@ and that's it
 more entries in newtask
 more text entered
 new entry in master branch
+a very important task to be done in master
 
 
 
