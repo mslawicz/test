@@ -4,3 +4,5 @@ obviously something has changed
 shouldn't it be commited?
 off the course
 just another small change
+new idea in another branch
+my august idea - version 1
