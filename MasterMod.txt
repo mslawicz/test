@@ -1,5 +1,3 @@
 problem 2 solved at branch master
 now I'm modyfying newtask
 and then master editing only
-this is a task which is interrupted right now - I will stash it to be able to continue later
-now I'm back and ready to continue
