@@ -1,3 +1,6 @@
 [submodule "stencila"]
 	path = stencila
 	url = https://github.com/stencila/test.git
+[submodule "mySubmodule"]
+	path = mySubmodule
+	url = https://github.com/mslawicz/mySubmodule.git
