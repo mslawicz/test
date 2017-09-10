@@ -1,3 +1,4 @@
 problem 2 solved at branch master
 now I'm modyfying newtask
 and then master editing only
+modification made by the other user
